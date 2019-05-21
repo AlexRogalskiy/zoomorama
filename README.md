@@ -1,0 +1,2 @@
+# zoomorama
+The Zoomarama project
